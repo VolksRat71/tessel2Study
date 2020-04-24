@@ -9,5 +9,6 @@ board.on("ready", () => {
     var led = new five.Led("a5")
     var button = new five.Button("a2");
     button.on("press", () => led.on());
-    button.on("release", () => led.off());
+    button.on("hold", () => led.blink(500));
+    button.on("release", () => led.stop().off());
 });
