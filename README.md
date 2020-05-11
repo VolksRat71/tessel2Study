@@ -1,5 +1,9 @@
 # Tessel 2 Study
 
+<p align="center">
+  <img height="300" src="https://raw.githubusercontent.com/VolksRat71/tessel2Study/master/readme_img/img.jpg">
+</p>
+
 Follow along as I make different files to interface with circuits I have built. I want to build robots in the future 🤖
 
 ## Credits
